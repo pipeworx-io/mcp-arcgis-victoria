@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-victoria",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Victoria GIS — Victoria, BC (Canada) open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-e083220f34ef31199f4924273ba70c9ba35cdc407ec9bf8d018857ab63e39980",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-caa5d5c6aa135efbec54e7d45571e3a0a142477d6f22b8b3384c84866dbbd486",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
